@@ -1,6 +1,6 @@
-# Black Pearl \]\[ syntax theme for Atom
-
 ![Image of Black Pearl II](/bp2.gif)
+
+# Black Pearl \]\[ syntax theme for Atom
 
 Atom port of the classic TextMate syntax theme [Black Pearl \]\[](http://blog.case.edu/ajw33/2006/03/22/black_pearl_textmate_theme).
 
