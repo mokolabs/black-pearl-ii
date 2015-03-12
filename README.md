@@ -1,5 +1,5 @@
 # black--pearl--i-i theme
 
-Atom port of the classic TextMate syntax theme "[Black Pearl ||](http://blog.case.edu/ajw33/2006/03/22/black_pearl_textmate_theme)" (designed by [Andrew Witte](https://github.com/ajwitte)).
+Atom port of the classic TextMate syntax theme [Black Pearl \]\[](http://blog.case.edu/ajw33/2006/03/22/black_pearl_textmate_theme) designed by [Andrew Witte](https://github.com/ajwitte).
 
 Conversion by Patrick Crowley.

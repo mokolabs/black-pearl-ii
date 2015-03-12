@@ -2,7 +2,7 @@
   "name": "black--pearl--i-i",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "An Atom port of the classic TextMate syntax theme Black Pearl || (designed by Andrew Witte).",
+  "description": "An Atom port of the classic TextMate syntax theme Black Pearl || designed by Andrew Witte",
   "repository": "https://github.com/mokolabs/black-pearl-ii",
   "license": "MIT",
   "engines": {
