@@ -4,4 +4,4 @@ Atom port of the classic TextMate syntax theme [Black Pearl \]\[](http://blog.ca
 
 Black Pearl \]\[ was originally designed by [Andrew Witte](https://github.com/ajwitte). Theme conversion by [Patrick Crowley](https://github.com/mokolabs).
 
-![Image of Black Pearl II](/bp2.gif)
+![Image of Black Pearl II](https://raw.githubusercontent.com/mokolabs/black-pearl-ii/master/bp2.gif)
