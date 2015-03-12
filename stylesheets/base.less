@@ -1,54 +1,54 @@
 @import "syntax-variables";
 
-.atom-text-editor {
+.editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 }
 
-.atom-text-editor .gutter {
+.editor .gutter {
   background-color: @syntax-gutter-background-color;
   color: @syntax-gutter-text-color;
 }
 
-.atom-text-editor .gutter .line-number.cursor-line {
+.editor .gutter .line-number.cursor-line {
   background-color: @syntax-gutter-background-color-selected;
   color: @syntax-gutter-text-color-selected;
 }
 
-.atom-text-editor .gutter .line-number.cursor-line-no-selection {
+.editor .gutter .line-number.cursor-line-no-selection {
   color: @syntax-gutter-text-color-selected;
 }
 
-.atom-text-editor .wrap-guide {
+.editor .wrap-guide {
   color: @syntax-wrap-guide-color;
 }
 
-.atom-text-editor .indent-guide {
+.editor .indent-guide {
   color: @syntax-indent-guide-color;
 }
 
-.atom-text-editor .invisible-character {
+.editor .invisible-character {
   color: @syntax-invisible-character-color;
 }
 
-.atom-text-editor .search-results .marker .region {
+.editor .search-results .marker .region {
   background-color: transparent;
   border: @syntax-result-marker-color;
 }
 
-.atom-text-editor .search-results .marker.current-result .region {
+.editor .search-results .marker.current-result .region {
   border: @syntax-result-marker-color-selected;
 }
 
-.atom-text-editor.is-focused .cursor {
+.editor.is-focused .cursor {
   border-color: @syntax-cursor-color;
 }
 
-.atom-text-editor.is-focused .selection .region {
+.editor.is-focused .selection .region {
   background-color: @syntax-selection-color;
 }
 
-.atom-text-editor.is-focused .line-number.cursor-line-no-selection, .atom-text-editor.is-focused .line.cursor-line {
+.editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
   background-color: rgba(255, 255, 255, 0.05);
 }
 
