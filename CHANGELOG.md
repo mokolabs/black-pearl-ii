@@ -1,3 +1,5 @@
+## 0.5.0 - Update deprecated css selectors (to use Atom 1.0 APIs and remove all Shadow DOM styles)
+
 ## 0.4.0 - Replaced deprecated css selectors
 
 ## 0.3.0 - Fixed bug with theme file name

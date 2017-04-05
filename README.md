@@ -6,4 +6,4 @@ Black Pearl \]\[ was originally designed by [Andrew Witte](https://github.com/aj
 
 ![Image of Black Pearl II](https://raw.githubusercontent.com/mokolabs/black-pearl-ii/master/bp2.gif)
 
-Note: if you're using the latest version of Atom, make sure you uncheck `Use Shadow DOM` in your Atom settings.
+Note: Atom 1.13 or higher is required. If you need to use this theme with an older version of Atom, you should download the 0.4.0 release of this theme.
